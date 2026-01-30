@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "save-money": {
+      "version": "2.2.1",
+      "installedAt": 1769678182081
+    },
+    "quiver": {
+      "version": "1.0.1",
+      "installedAt": 1769724987891
+    },
+    "financial-market-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1769724989760
+    },
+    "alpha-finder": {
+      "version": "1.0.0",
+      "installedAt": 1769724991593
+    }
+  }
+}

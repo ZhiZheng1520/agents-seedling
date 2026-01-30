@@ -1,0 +1,56 @@
+{
+  "per_asset": {
+    "BTC": {
+      "trades": 80,
+      "win_rate": 43.75,
+      "return": 71.97504270692144,
+      "sharpe": 2.1754983889240465
+    },
+    "ETH": {
+      "trades": 75,
+      "win_rate": 42.66666666666667,
+      "return": 102.4568910106606,
+      "sharpe": 2.6085585659662005
+    },
+    "SOL": {
+      "trades": 61,
+      "win_rate": 34.42622950819672,
+      "return": 26.385817241105926,
+      "sharpe": 0.9384598815186106
+    },
+    "DOGE": {
+      "trades": 59,
+      "win_rate": 33.89830508474576,
+      "return": 40.67820868790881,
+      "sharpe": 1.41215239816453
+    },
+    "AVAX": {
+      "trades": 54,
+      "win_rate": 44.44444444444444,
+      "return": 69.84963188746426,
+      "sharpe": 1.7983358563516953
+    },
+    "XRP": {
+      "trades": 65,
+      "win_rate": 38.46153846153847,
+      "return": 61.694103443081985,
+      "sharpe": 1.5712451640702374
+    },
+    "LINK": {
+      "trades": 52,
+      "win_rate": 42.30769230769231,
+      "return": 54.376339199168086,
+      "sharpe": 1.9557381782071346
+    }
+  },
+  "portfolio": {
+    "total_trades": 446,
+    "trades_per_day": 1.14,
+    "trading_days": 214,
+    "total_days": 390,
+    "sharpe_sqrt_n": 4.78,
+    "sharpe_daily_all_days": 2.81,
+    "win_rate": 40.1,
+    "total_return_pct": 427.4
+  }
+}
