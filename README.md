@@ -8,7 +8,7 @@ This repository contains the workspace configurations, memory archives, and oper
 
 ## Agent Structure
 
-The repository contains 6 specialized agents, each with their own workspace:
+The repository contains 7 specialized agents, each with their own workspace:
 
 ### clawd
 - **Role**: Main agent
@@ -49,6 +49,12 @@ The repository contains 6 specialized agents, each with their own workspace:
 - **Workspace**: `/Users/zhizheng/clawd-secretary`
 - **Model**: Claude Sonnet 4.5 (claude-sonnet-4-5-20250929)
 - **Channel**: Discord (secretary account)
+
+### clawd-trader
+- **Role**: Quant Trader
+- **Workspace**: `/Users/zhizheng/clawd-trader`
+- **Model**: Claude Opus 4.5
+- **Channel**: Discord (trader account)
 
 ## Workspace Contents
 
